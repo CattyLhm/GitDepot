@@ -1,1 +1,1 @@
-# GitRepo
+# GitDepot
